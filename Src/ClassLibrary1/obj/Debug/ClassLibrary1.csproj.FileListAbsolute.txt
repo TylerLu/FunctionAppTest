@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\GitHub\FunctionAppTest\Src\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\admin\Documents\GitHub\FunctionAppTest\Src\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\admin\Documents\GitHub\FunctionAppTest\Src\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\admin\Documents\GitHub\FunctionAppTest\Src\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\GitHub\FunctionAppTest\Src\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\GitHub\FunctionAppTest\Src\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\GitHub\FunctionAppTest\Src\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\GitHub\FunctionAppTest\Src\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\admin\Documents\GitHub\FunctionAppTest\Src\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
