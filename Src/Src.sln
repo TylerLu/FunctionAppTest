@@ -28,7 +28,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Function", "Function\", "{C
 		SlnRelativePath = "Function\"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{F3C0ED62-7FC8-40F5-89CA-5B7FAFCC901D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{1043E581-F144-45D9-B002-EA820382A332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,10 +40,10 @@ Global
 		{CAEF7976-6362-43BB-88EA-117BFBD95A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAEF7976-6362-43BB-88EA-117BFBD95A71}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{CAEF7976-6362-43BB-88EA-117BFBD95A71}.Release|Any CPU.Build.0 = Debug|Any CPU
-		{F3C0ED62-7FC8-40F5-89CA-5B7FAFCC901D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F3C0ED62-7FC8-40F5-89CA-5B7FAFCC901D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F3C0ED62-7FC8-40F5-89CA-5B7FAFCC901D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F3C0ED62-7FC8-40F5-89CA-5B7FAFCC901D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1043E581-F144-45D9-B002-EA820382A332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1043E581-F144-45D9-B002-EA820382A332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1043E581-F144-45D9-B002-EA820382A332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1043E581-F144-45D9-B002-EA820382A332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
